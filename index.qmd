@@ -1,0 +1,24 @@
+---
+title: "Vidhi's Portfolio"
+author: "Vidhi A. Sharma"
+date: "2025-02-07"
+format:
+  html:
+    theme: journal
+    toc: true
+---
+
+# Welcome to My Portfolio!  
+
+Hello! I'm Vidhi A. Sharma, a Master's student at Boston University.  
+This website showcases my work in Web Analytics, GitHub, and Quarto.
+
+## 🚀 Projects  
+- **GitHub Pages Portfolio** (You’re looking at it!)
+- **Python & R Data Analysis**
+- **Marketing & Web Analytics**
+
+## 📬 Contact Me  
+📧 Email: [vish17@bu.edu](mailto:vish17@bu.edu) , [sharmavidhi3008@gmail.com](mailto:sharmavidhi3008@gmail.com) 
+
+🔗 [LinkedIn](https://www.linkedin.com/in/17vidhisharma)
